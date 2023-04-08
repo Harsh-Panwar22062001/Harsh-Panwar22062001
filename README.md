@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **knlharshpanwar@gmail.com**
 
-- ⚡ Fun fact **i also sing well😅**
+- ⚡ Fun fact **I also sing well😅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
