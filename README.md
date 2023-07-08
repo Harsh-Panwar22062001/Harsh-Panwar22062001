@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Harsh Panwar</h1>
-<h3 align="center">A passionate developer from India who build stuff to make people life easier</h3>
+<h3 align="center">A passionate developer from India who build stuff to make people's life easier</h3>
 <img align="right" alt="Coding" width="500" height="270" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-panwar22062001&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-panwar22062001" /> </p>
