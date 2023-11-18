@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/harsh_kuma_r" target="blank"><img src="https://img.shields.io/twitter/follow/harsh_kuma_r?logo=twitter&style=for-the-badge" alt="harsh_kuma_r" /></a> </p>
 
-- 🔭 I’m currently working on **Khabar Mania**
+- 🔭 I’m currently working on **iBookStore**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Dot Net Web Api**
 
-- 💬 Ask me about **Web,MERN**
+  
 
 - 📫 How to reach me **knlharshpanwar@gmail.com**
 
